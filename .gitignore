@@ -1,0 +1,6 @@
+.env
+venv/
+exports
+conversions
+process_logs.txt
+__pychache__/
